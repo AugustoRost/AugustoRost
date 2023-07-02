@@ -1,5 +1,4 @@
 <h1> Olá, eu me chamo Augusto Rost, tenho 29 anos e sou de Lajeado-RS</h1>
-<br>🏎️Automobilismo Virtual;  🐈Gatos
 <h2>Cursando Full Stack Web Dev GROWDEV:</h2>
 <ul>
 <li>HTML</li>
